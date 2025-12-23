@@ -98,7 +98,7 @@ namespace AlexAvoyan_3._2_2025
             Console.WriteLine(Width(lst3, -1)); // Output: 7
             int[]arr4 = {-9 ,1, 1, 22, 10, 2, 9};
             Node<int> lst4 = FromArrToNode(arr4);
-            Console.WriteLine(Longest(lst4)); // Output: 7
+            Console.WriteLine(Longest(lst4)); // Output: 45
         }
     }
 }
